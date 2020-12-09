@@ -20,3 +20,20 @@ a{
     font-size: 20px;
     font-family: unset;
 }
+.sitbor{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    width: 150px;height: 350px;
+    padding: 10px 15px;
+    border-right: 5px dotted black;
+}
+.sitbor_items {
+    margin-bottom: 30px;
+  
+}
+.sitbor_items a{
+    margin-bottom: 30px;
+    color: white;
+    font-family: fantasy;
+}
