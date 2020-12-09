@@ -22,3 +22,15 @@
     font-family: unset;
     color: white;
   }
+  section div{
+      display: flex;
+      justify-content: space-between;
+      width: 200px;height: 200px;
+      background-position: center;
+      overflow: hidden;
+      border-radius: 50%;
+  }
+  section div img:hover{
+      transform: scale(1.1);
+    
+  }
