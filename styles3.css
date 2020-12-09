@@ -22,3 +22,7 @@
     font-family: unset;
     color: white;
   }
+  main button{
+      background-color: green;
+      color: white;
+  }
